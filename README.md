@@ -56,10 +56,6 @@ Web scraping may be against the terms of service of some websites. Ensure you ha
 
 [MIT License](LICENSE)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/aws-partner-scraper/issues).
-
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
